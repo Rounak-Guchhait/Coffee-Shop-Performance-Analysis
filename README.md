@@ -222,16 +222,6 @@ The insights generated through this project can help businesses:
 
 ---
 
-# Future Improvements
-
-* Integrate real-time sales data
-* Develop customer segmentation models
-* Add sales forecasting using machine learning
-* Automate dashboard refresh
-* Publish the dashboard using Power BI Service
-
----
-
 # Author
 
 **Rounak Guchhait**
