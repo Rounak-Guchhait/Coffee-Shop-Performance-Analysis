@@ -198,7 +198,6 @@ Coffee-Shop-Performance-Analysis
 # Skills Demonstrated
 
 * SQL Query Writing
-* Relational Database Design
 * Data Modeling
 * Business Intelligence
 * Data Analysis
