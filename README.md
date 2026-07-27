@@ -176,6 +176,7 @@ This project helps answer questions such as:
 Coffee-Shop-Performance-Analysis
 
 ├── Coffee Sales Performance Dashboard.pbix
+├── Coffee Sales Performance Dashboard.png
 ├── DATA ANALYSIS
 │   ├── coffee sales tables.sql
 │   └── coffee sales data analysis.sql
