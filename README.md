@@ -11,7 +11,7 @@ This project analyzes transactional data from a coffee shop business to uncover 
 > **Interactive Power BI Dashboard**
 
 <p align="center">
-  <img src="Coffee Sales Dashboard.png" alt="Coffee Shop Performance Dashboard" width="100%">
+  <img src="Coffee Sales Performance Dashboard.png" alt="Coffee Shop Performance Dashboard" width="100%">
 </p>
 
 ---
