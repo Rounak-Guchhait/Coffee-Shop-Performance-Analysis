@@ -225,5 +225,3 @@ The insights generated through this project can help businesses:
 # Author
 
 **Rounak Guchhait**
-
----
