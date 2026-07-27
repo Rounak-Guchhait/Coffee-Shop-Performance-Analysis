@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Performance Analysis
+# Coffee Shop Performance Analysis
 
 > **An end-to-end business intelligence project that analyzes coffee shop sales, customer behavior, and product performance using SQL and Power BI to generate actionable business insights.**
 
@@ -6,7 +6,7 @@ This project analyzes transactional data from a coffee shop business to uncover 
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 > **Interactive Power BI Dashboard**
 
@@ -16,7 +16,7 @@ This project analyzes transactional data from a coffee shop business to uncover 
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 Coffee shops generate large volumes of transactional data every day. Converting this data into meaningful insights helps businesses understand customer demand, optimize inventory, improve product offerings, and increase revenue.
 
@@ -24,7 +24,7 @@ This project demonstrates a complete analytics workflow by transforming raw sale
 
 ---
 
-# 🎯 Business Objectives
+# Business Objectives
 
 * Analyze overall sales performance
 * Identify top-performing coffee products
@@ -36,7 +36,7 @@ This project demonstrates a complete analytics workflow by transforming raw sale
 
 ---
 
-# 📂 Dataset Information
+# Dataset Information
 
 The project uses multiple relational datasets representing different aspects of the business.
 
@@ -51,7 +51,7 @@ These datasets were joined using SQL to create a unified analytical model for re
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 * **SQL**
 
@@ -69,7 +69,7 @@ These datasets were joined using SQL to create a unified analytical model for re
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 ```text
 Raw CSV Files
@@ -95,7 +95,7 @@ Business Insights
 
 ---
 
-# 🗄 Database Design
+# Database Design
 
 The project follows a relational data model consisting of:
 
@@ -108,7 +108,7 @@ The relationships between these tables enable comprehensive business analysis ac
 
 ---
 
-# 💻 SQL Analysis
+# SQL Analysis
 
 SQL was used to answer key business questions, including:
 
@@ -125,7 +125,7 @@ The analysis involved joins, aggregations, grouping, filtering, and business-foc
 
 ---
 
-# 📈 Power BI Dashboard
+# Power BI Dashboard
 
 The dashboard provides an executive overview of the coffee shop's business performance through interactive visualizations.
 
@@ -142,7 +142,7 @@ The dashboard provides an executive overview of the coffee shop's business perfo
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 The dashboard tracks important business metrics such as:
 
@@ -157,7 +157,7 @@ The dashboard tracks important business metrics such as:
 
 ---
 
-# 💡 Business Insights
+# Business Insights
 
 This project helps answer questions such as:
 
@@ -170,10 +170,10 @@ This project helps answer questions such as:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
-📦 Coffee-Shop-Performance-Analysis
+Coffee-Shop-Performance-Analysis
 
 ├── Coffee Sales Performance Dashboard.pbix
 ├── DATA ANALYSIS
@@ -192,7 +192,7 @@ This project helps answer questions such as:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 * SQL Query Writing
 * Relational Database Design
@@ -207,7 +207,7 @@ This project helps answer questions such as:
 
 ---
 
-# 📊 Business Value
+# Business Value
 
 The insights generated through this project can help businesses:
 
@@ -220,7 +220,7 @@ The insights generated through this project can help businesses:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 * Integrate real-time sales data
 * Develop customer segmentation models
@@ -230,12 +230,8 @@ The insights generated through this project can help businesses:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Rounak Guchhait**
-
-**Aspiring Data Analyst**
-
-**Skills:** SQL • Power BI • Python • Excel • Data Visualization • Business Analytics
 
 ---
