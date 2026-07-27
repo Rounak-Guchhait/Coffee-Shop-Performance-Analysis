@@ -142,7 +142,7 @@ The dashboard provides an executive overview of the coffee shop's business perfo
 
 ---
 
-# Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs) & Visuals
 
 The dashboard tracks important business metrics such as:
 
