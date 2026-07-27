@@ -16,7 +16,7 @@ This project analyzes transactional data from a coffee shop business to uncover 
 
 ---
 
-# Project Overview 
+# Project Overview
 
 Coffee shops generate large volumes of transactional data every day. Converting this data into meaningful insights helps businesses understand customer demand, optimize inventory, improve product offerings, and increase revenue.
 
